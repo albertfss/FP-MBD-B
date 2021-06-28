@@ -1,4 +1,4 @@
-NSERT INTO orders VALUES (11251, 'VICTE', 3, '1997-07-08', '1997-08-05', '1997-07-15', 1, 41.3400002, 'Victuailles en stock', '2, rue du Commerce', 'Lyon', NULL, '69004', 'France');
+	INSERT INTO orders VALUES (11251, 'VICTE', 3, '1997-07-08', '1997-08-05', '1997-07-15', 1, 41.3400002, 'Victuailles en stock', '2, rue du Commerce', 'Lyon', NULL, '69004', 'France');
 	INSERT INTO orders VALUES (11252, 'SUPRD', 4, '1997-07-09', '1997-08-06', '1997-07-11', 2, 51.2999992, 'Suprêmes délices', 'Boulevard Tirou, 255', 'Charleroi', NULL, 'B-6000', 'Belgium');
 	INSERT INTO orders VALUES (11253, 'HANAR', 3, '1997-07-10', '1997-07-24', '1997-07-16', 2, 58.1699982, 'Hanari Carnes', 'Rua do Paço, 67', 'Rio de Janeiro', 'RJ', '05454-876', 'Brazil');
 	INSERT INTO orders VALUES (11254, 'CHOPS', 5, '1997-07-11', '1997-08-08', '1997-07-23', 2, 22.9799995, 'Chop-suey Chinese', 'Hauptstr. 31', 'Bern', NULL, '3012', 'Switzerland');
