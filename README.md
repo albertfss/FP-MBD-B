@@ -1,5 +1,5 @@
 # FP-MBD-B
-## customer250k by opi
+## customer250k_opi
 list change :
 1. company_name(50)
 2. contact_name(50)
